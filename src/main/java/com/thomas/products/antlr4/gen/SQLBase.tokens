@@ -1,0 +1,8 @@
+SELECT=1
+FROM=2
+COMMA=3
+ID=4
+WS=5
+'select'=1
+'from'=2
+','=3
